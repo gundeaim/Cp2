@@ -1,0 +1,108 @@
+
+
+.logo{
+  text-align: center;
+  height: 94px;
+  padding: 15px;
+  background: url(https://static.vecteezy.com/system/resources/previews/000/112/084/original/abstract-free-old-black-surface-vector-texture.jpg)
+}
+
+.page{
+  min-height: 80%;
+}
+
+body{
+  text-align: center;
+  background: url(https://cdn11.bigcommerce.com/s-hv21hhsv/images/stencil/2000x2000/products/13836/87642/WM-014_CONCRETE4_900x__24993.1560515156.jpg?c=2)
+}
+
+img {
+  margin: auto;
+  display: block;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.house-info{
+  color: #51525B;
+  width: 60%;
+  height: 80%;
+  background-color: white;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: black;
+  text-align: center;
+}
+
+.house-name{
+  font-size: 75px;
+}
+
+.Ravenclaw{
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url(http://getwallpapers.com/wallpaper/full/f/3/3/1114885-ravenclaw-wallpaper-3200x2000-htc.jpg)
+}
+
+.Gryffindor{
+  display: flex;
+  justify-content: center;
+  height: auto;
+  align-items: center;
+  background: url(https://wallpapertag.com/wallpaper/full/7/7/0/143660-download-free-gryffindor-wallpaper-3200x2000-mac.jpg)
+}
+.Slytherin{
+  display: flex;
+  justify-content: center;
+  height: auto;
+  align-items: center;
+  background: url(https://i.pinimg.com/originals/7a/bc/7c/7abc7cc3c155216b4e549d9b6e3dc46d.jpg)
+}
+.Hufflepuff{
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  height: auto;
+  align-items: center;
+  background: url(https://wallpapercave.com/wp/wp1958741.jpg)
+}
+
+.house-img{
+  width: 200px;
+}
+
+.spell-box{
+  text-align: center;
+  background-color: black;
+  color: white;
+  background: url(https://static.vecteezy.com/system/resources/previews/000/112/084/original/abstract-free-old-black-surface-vector-texture.jpg)
+}
+
+.spell-name{
+  padding-top: 20px;
+  padding-bottom: 10px;
+  font-size: 40px;
+  border-bottom: solid 1px white;
+}
+
+.spell-type{
+  padding-top: 0px;
+  font-size: 25px;
+}
+
+.Action{
+  padding-bottom: 30px;
+  font-size: 25px;
+}
+
+.footer{
+  color: white;
+  background-color: black ;
+  padding: 20px 0;
+  display: flex;
+  justify-content: center;
+}
